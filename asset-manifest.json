@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animals-project/static/css/main.1585b80e.css",
+    "main.js": "/animals-project/static/js/main.e0995dc9.js",
+    "static/js/787.f5a6e534.chunk.js": "/animals-project/static/js/787.f5a6e534.chunk.js",
+    "index.html": "/animals-project/index.html",
+    "main.1585b80e.css.map": "/animals-project/static/css/main.1585b80e.css.map",
+    "main.e0995dc9.js.map": "/animals-project/static/js/main.e0995dc9.js.map",
+    "787.f5a6e534.chunk.js.map": "/animals-project/static/js/787.f5a6e534.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1585b80e.css",
+    "static/js/main.e0995dc9.js"
+  ]
+}
